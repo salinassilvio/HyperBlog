@@ -2,4 +2,6 @@ Esta es la historia de Silvio Salinas
 
 Silvio Salinas es un joven nicaraguense
 
+Silvio tiene 26 años
+
 Hoy esta aprendiendo git
